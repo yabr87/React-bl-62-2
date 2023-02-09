@@ -16,6 +16,7 @@
 [ Pexels](https://www.pexels.com/api/documentation/). Зареєструйся та отримай
 приватний ключ доступу.
 
+const API_KEY = '563492ad6f9170000100000108dc2880626e4436b3634ce1cf6b4d74';
 Приклад HTTP-запиту.
 
 ```js
